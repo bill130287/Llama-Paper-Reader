@@ -1,4 +1,4 @@
-# Ollama Paper Reader
+# Llama Paper Reader
 
 ## Description
 Ollama Paper Reader is a Streamlit-based web application designed to help users quickly understand academic papers using large language model(LLM). The app leverages Llama3 and the GROQ API for model inference. Users can upload their papers, and the app will process and summarize key points using retrieval-augmented generation(RAG) to provide better contextual responses from the model.
